@@ -1,0 +1,271 @@
+Student@YUUSTD08888028 MINGW64 ~
+$ explorer "Desktop/"
+
+Student@YUUSTD08888028 MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ dior/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ potato/
+
+Student@YUUSTD08888028 MINGW64 ~
+$ cd Desktop/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop
+$ cd pluralsight/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight
+$ cd command-line/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line
+$ cd VirtualWorld/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld
+$ cd Parks/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ mkdir ohio
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ ls
+Califiornia/  Florida/  Texas/  ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ cd ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ touch Adams-Lake-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ ls
+Adams-Lake-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ touch Caesar Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ cd .
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ mkdir New York
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ ls
+Califiornia/  Florida/  New/  Texas/  York/  ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ cd New/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New
+$ cd .
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ rmdir New/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ mkdir New-York
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ ls
+Califiornia/  Florida/  New-York/  Texas/  York/  ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ cd New-York/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New-York
+$ touch central-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New-York
+$ touch bryant-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New-York
+$ touch brooklyn-Bridge-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New-York
+$ ls
+brooklyn-Bridge-park.txt  bryant-park.txt  central-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New-York
+$ cd..
+bash: cd..: command not found
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/New-York
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld
+$ cd Animals/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals
+$ cd Pets/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals/Pets
+$ touch iguana.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals/Pets
+$ ls
+Cat.txt  Dog.txt  Goldfish.txt  Parrot.txt  iguana.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals/Pets
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld
+$ cd Foods/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Foods
+$ cd Mexican/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Foods/Mexican
+$ touch discada.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Foods/Mexican
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Foods
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld
+$ cd Parks/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ ls
+Califiornia/  Florida/  New-York/  Texas/  York/  ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ mkdir Iowa
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ ls
+Califiornia/  Florida/  Iowa/  New-York/  Texas/  York/  ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ cd Iowa/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ touch carnergie-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ touch blue-bird-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ touch stony-rock-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks
+$ cd ..
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld
+$ cd Animals/Pets/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals/Pets
+$ rm Goldfish.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals/Pets
+$ cd ../
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Animals
+$ cd ../
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld
+$ cd Parks/ohio/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm "Adams-Lake-State-Park.txt"/"C
+Caesar                Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm Adams-Lake-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ ls
+Caesar  Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm C
+Caesar                Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm C
+Caesar                Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm C
+rm: cannot remove 'C': No such file or directory
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm caesar.txt
+rm: cannot remove 'caesar.txt': No such file or directory
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ ls
+Caesar  Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm C^C
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ ^[[200~Caesar  Creek-State-Park.txt
+bash: $'\E[200~Caesar': command not found
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ rm Caesar  Creek-State-Park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ ls
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/ohio
+$ cd ../Iowa/
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ ls
+blue-bird-park.txt  carnergie-park.txt  stony-rock-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ rm blue-bird-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ rm carnergie-park.txt
+
+Student@YUUSTD08888028 MINGW64 ~/Desktop/pluralsight/command-line/VirtualWorld/Parks/Iowa
+$ rm stony-rock-park.txt
